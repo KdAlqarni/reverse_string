@@ -1,4 +1,4 @@
-# Write a program that takes a string as input and prints the same string but reversed
+# Program that takes a string as input and prints the same string but reversed
 # Example:
 # “” -> “edcba”
 
