@@ -1,5 +1,5 @@
 # reverse_string
-This program will reverse strings entered by users.
+A program that takes a string as input and prints the same string but reversed
 
 ## To run in terminal:
 ```
